@@ -252,6 +252,16 @@ project/
 ---
 
 
-## Some screenshot:
+## Some screenshot from PyCharm Terminal, SQL server settings and power BI import settings:
+
+<img width="759" height="469" alt="{EDFFB5CE-6430-43FA-9918-A960CFA2B315}" src="https://github.com/user-attachments/assets/9b1ac3b1-d575-4cfe-be51-cd1618c5306a" />
 
 
+
+<img width="247" height="156" alt="{ECCCC835-743D-4C2E-9D94-76FD050E95C7}" src="https://github.com/user-attachments/assets/e637701a-c78e-45c7-bd5a-f03c67ce821e" />
+
+
+<img width="595" height="481" alt="{07BE5BF7-F705-4808-B0A1-E59C130C7D77}" src="https://github.com/user-attachments/assets/1bb3c45b-e530-4c89-852f-95e0e43698ec" />
+
+
+<img width="643" height="446" alt="{F4915D4A-7ADC-4280-9B78-B9C954645480}" src="https://github.com/user-attachments/assets/35716bcc-9959-4b8c-a52a-34660957cc19" />
